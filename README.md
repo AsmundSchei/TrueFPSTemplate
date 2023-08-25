@@ -1,4 +1,4 @@
-# TrueFPSTemplate
+# True FPS template
  True FPS template, for UnrealEngine
 
 
